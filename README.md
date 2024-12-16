@@ -69,3 +69,15 @@ Kurulum için:
 
 ```bash
 pip install numpy tensorflow keras opencv-python scikit-learn
+
+├── data/
+│   ├── train/        # Eğitim verileri
+│   ├── test/         # Test verileri
+│   ├── manipulated/  # Manipüle edilmiş test verileri
+│   └── corrected/    # Renk sabitliği uygulanmış test verileri
+├── models/
+│   └── cnn_model.h5  # Eğitilmiş model
+├── main.py           # Ana Python dosyası
+├── utils.py          # Yardımcı fonksiyonlar
+└── README.md         # Proje açıklamaları
+
