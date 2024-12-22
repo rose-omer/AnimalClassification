@@ -1,3 +1,5 @@
+# Bu proje  Ömer Faruk Köse ve Kübra Varol ile beraber hazırlanmıştır 
+
 # Animal Classification with CNN
 
 Bu proje, bir **Convolutional Neural Network (CNN)** modeli geliştirerek hayvan türlerini sınıflandırmayı amaçlamaktadır. Proje kapsamında, **10 hayvan sınıfını** (collie, dolphin, elephant, fox, moose, rabbit, sheep, squirrel, giant panda, polar bear) sınıflandıran bir model tasarlanmıştır. Ayrıca, modelin performansı manipüle edilmiş görüntüler üzerinde ve renk sabitliği algoritması uygulanmış görüntüler üzerinde test edilmiştir.
@@ -65,6 +67,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacı
 - `opencv-python`
 - `scikit-learn`
 
+
 Kurulum için:
 
 ```bash
@@ -80,4 +83,10 @@ pip install numpy tensorflow keras opencv-python scikit-learn
 ├── main.py           # Ana Python dosyası
 ├── utils.py          # Yardımcı fonksiyonlar
 └── README.md         # Proje açıklamaları
+
+''
+
+
+
+
 
