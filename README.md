@@ -1,4 +1,4 @@
-# Bu proje  Ömer Faruk Köse ve Kübra Varol ile beraber hazırlanmıştır 
+
 
 # Animal Classification with CNN
 
